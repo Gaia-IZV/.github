@@ -1,33 +1,22 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gaia-IZV/.github/refs/heads/main/assets/logo_small.jpg" alt="Gaia Logo" width="150"/>
-  <br/>
-  <b><big>Gaia Organization</big></b>
-</p>
+# Gaia Organization - GitHub Configuration Repo
 
-Welcome to **Gaia**, a collaborative GitHub organization dedicated to developing AI-powered solutions for plant identification and care.
+This repository is used to store GitHub-specific configurations for the Gaia organization, including:
 
----
-
-## About Us
-
-Gaia brings together a team of developers passionate about applying machine learning to botany. Our goal is to create tools that make plant care easier, more accurate, and accessible to everyone.
+- **Organization profile README** (`profile/README.md`)  
+  - This is the public-facing README visible on the Gaia organization page.
+- **Assets** (`assets/`)  
+  - Logos and images used in organization profiles and documentation.
+- **Templates and GitHub configuration**  
+  - Issue templates, pull request templates, and other default GitHub settings for the organization.
 
 ---
 
-## What We Do
+## Purpose
 
-- **Image-based Plant Identification**  
-  We develop and train convolutional neural networks (CNNs) to identify plant species from images. We also integrate pre-trained models from Hugging Face for benchmarking and comparison.
-
-- **Plant Care Language Model**  
-  We train language models to provide personalized and informative advice for plant care, helping users understand how to nurture their plants effectively.
+The `.github` repository centralizes organization-wide GitHub settings and resources. It allows the Gaia team to maintain consistent templates, documentation, and branding across all repositories.
 
 ---
 
-## Contact
+## Contribution
 
-For inquiries, suggestions, or collaboration, reach out via GitHub issues in the respective repository or contact the organization members directly.
-
----
-
-Together, we aim to bridge the gap between AI and everyday plant care.
+Members of the Gaia organization can propose changes here to improve templates, update branding, or modify organization-wide GitHub settings.
